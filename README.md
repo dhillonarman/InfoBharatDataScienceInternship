@@ -38,7 +38,7 @@ This project analyzes customer transaction data from an online retail store to u
 ## 🖼️ Key Visualizations  
 - Monthly Sales Trends: ![Monthly Trends](monthly_sales_trends.png)  
 - Product Popularity: ![Top Products](top_products_revenue.png)  
-- Customer Segments: ![CLV Distribution](clv_distribution.png)  
+- Customer Segments and Customer Lifetime Value (CLV): ![CLV Distribution](clv_distribution.png)  
 
 ## 📊 Business Insights Summary  
 
